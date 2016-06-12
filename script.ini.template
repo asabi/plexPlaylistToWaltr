@@ -1,0 +1,9 @@
+[info]
+
+# The location of the plex server
+SERVERLOCATION = http://localhost:32400
+
+# The place to create the folders with the movies and thumbnails.
+# Make sure that there is enough space there for all of the movies you
+# would like to transfer
+SAVEPATH =
